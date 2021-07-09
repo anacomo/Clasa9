@@ -17,7 +17,7 @@
 while(conditie)
 {
   // instructiuni
-  // este necesara o conditie de oprire
+  break; // este necesara o conditie de oprire
 }
 ```
 
