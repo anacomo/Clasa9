@@ -14,7 +14,7 @@
 ## Structura repetitiva
 ### While
 ```cpp
-while(conditie == true)
+while(conditie)
 {
   // instructiuni
   // este necesara o conditie de oprire
