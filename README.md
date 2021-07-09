@@ -2,7 +2,7 @@
 
 ## Structura de decizie
 ```cpp
- if(conditie == true)
+ if(conditie)
  {
    // instructiuni
  }
