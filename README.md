@@ -2,7 +2,7 @@
 
 ## Structura de decizie
 ```cpp
- if(conditie == true)
+ if(conditie)
  {
    // instructiuni
  }
@@ -14,10 +14,10 @@
 ## Structura repetitiva
 ### While
 ```cpp
-while(conditie == true)
+while(conditie)
 {
   // instructiuni
-  // este necesara o conditie de oprire
+  break; // este necesara o conditie de oprire
 }
 ```
 
